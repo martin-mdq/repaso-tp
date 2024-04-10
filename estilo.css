@@ -1,0 +1,8 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+.container-fluid{
+    background-color: #025959;
+    font-size: 130%;
+}
